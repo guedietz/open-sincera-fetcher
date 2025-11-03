@@ -118,6 +118,7 @@ tbd
 
 **Günther Dietz**
 Head of Business Development & Programmatic @ otago Online Consulting 🇦🇹
+
 Building transparency & automation tools for the open web.
 
 💼 [LinkedIn](https://linkedin.com/in/dietzguenther/) • 🧠 [GitHub](https://github.com/guedietz)
